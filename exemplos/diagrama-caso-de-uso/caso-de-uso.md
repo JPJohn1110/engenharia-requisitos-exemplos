@@ -12,13 +12,13 @@ Um caso de uso é uma possível interação entre um usuário (ator) e o sistema
 2. **Sistema**: O sistema que está sendo desenvolvido, no qual o caso de uso será implementado.
 3. **Objetivo**: O que o ator deseja alcançar através da interação com o sistema.
 
-##Descrição
+## Descrição
 
 Os casos de uso representam as principais atividades de negócio e são fundamentais para entender os requisitos do sistema. Cada caso de uso pode ser descrito detalhadamente por meio de cenários que ilustram como o ator interage com o sistema para alcançar um objetivo específico.
 
-##Exemplos de Casos de Uso
+## Exemplos de Casos de Uso
 
-###Exemplo 1: Login de Usuário
+### Exemplo 1: Login de Usuário
 
 - **Ator**: Usuário
 - **Objetivo**: Acessar a conta pessoal
