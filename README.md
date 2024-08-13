@@ -17,4 +17,4 @@ Se você deseja adicionar mais exemplos ou melhorar o conteúdo, sinta-se à von
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato com [jpsr,jpsantos@gmail.com](mailto:jpsantos@gmail.com).
+Para dúvidas ou sugestões, entre em contato com [jpsr.jpsantos@gmail.com](mailto:jpsr.jpsantos@gmail.com).
